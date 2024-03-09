@@ -1,0 +1,13 @@
+{
+    "name": "vendor/web",
+    "description": "Description of project web.",
+    "authors": [
+        {
+            "name": "weaka",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "v6.9.1"
+    }
+}
